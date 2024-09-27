@@ -31,3 +31,8 @@ def similar_words(word="tree", top_k=10):
     )
 
     return sorted_words[:top_k]  # Return the top K most similar words
+
+
+# # This is how your code will be called.
+# # You can edit this code to try different testing cases.
+# result = Answer.similar_words("tree", top_k=10)
