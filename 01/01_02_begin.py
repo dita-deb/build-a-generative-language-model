@@ -1,3 +1,4 @@
+# this is what we are given at the start of the course
 import random
 from collections import defaultdict
 
