@@ -1,4 +1,7 @@
-# Hands-On AI: Build a Generative Language Model from Scratch
+# Generative Language Model Build - Anindita's Attempt
+
+## Following the course below from LinkedIn Learning:
+### Hands-On AI: Build a Generative Language Model from Scratch
 This is the repository for the LinkedIn Learning course Hands-On AI: Build a Generative Language Model from Scratch. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![Hands-On AI: Build a Generative Language Model from Scratch][lil-thumbnail-url] 
