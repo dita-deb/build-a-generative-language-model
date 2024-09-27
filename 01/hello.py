@@ -1,1 +1,6 @@
 print("Hello! This is a check to see if this is updating to the repo on my personal github.")
+print("The way i could make it happen was going to the source control panel.")
+print("Clicking the three dots next to the drop down with 'source ccontrol")
+print("Go to Push Pull drop down")
+print("Select 'Push to' and it will pull up your commited repo url in the top search bar")
+print("Hit enter and the changes will be made on the Github Repository.")
